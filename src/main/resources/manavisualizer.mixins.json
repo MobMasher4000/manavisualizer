@@ -1,12 +1,11 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "org.zombie.manavisualizer.mixin",
+  "package": "org.mob.manavisualizer.mixin",
   "compatibilityLevel": "JAVA_8",
   "refmap": "manavisualizer.refmap.json",
   "mixins": [
-    "BotaniaManaItemNumericalMixin",
-    "ModEasterEggMixin"
+    "BotaniaManaItemNumericalMixin"
   ],
   "client": [
   ],

@@ -1,4 +1,4 @@
-package org.zombie.manavisualizer.mixin;
+package org.mob.manavisualizer.mixin;
 
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.Component;
@@ -9,10 +9,8 @@ import net.minecraft.world.level.Level;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.spongepowered.asm.mixin.Mixin;
-import org.zombie.manavisualizer.ManaNumberFormatting;
+import org.mob.manavisualizer.ManaNumberFormatting;
 import vazkii.botania.api.mana.ManaItem;
-import vazkii.botania.client.integration.jei.JEIBotaniaPlugin;
-import vazkii.botania.client.integration.jei.RunicAltarRecipeCategory;
 import vazkii.botania.common.item.ManaTabletItem;
 import vazkii.botania.common.item.equipment.bauble.BaubleItem;
 import vazkii.botania.xplat.XplatAbstractions;

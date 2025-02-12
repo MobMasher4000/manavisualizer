@@ -1,4 +1,4 @@
-package org.zombie.manavisualizer;
+package org.mob.manavisualizer;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -7,7 +7,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
-import org.zombie.manavisualizer.item.ModItems;
+import org.mob.manavisualizer.item.ModItems;
 
 public class ModCreativeTab {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =

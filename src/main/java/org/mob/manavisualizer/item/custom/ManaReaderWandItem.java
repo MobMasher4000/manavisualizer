@@ -1,4 +1,4 @@
-package org.zombie.manavisualizer.item.custom;
+package org.mob.manavisualizer.item.custom;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.chat.Component;
@@ -15,7 +15,7 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.zombie.manavisualizer.ManaNumberFormatting;
+import org.mob.manavisualizer.ManaNumberFormatting;
 import vazkii.botania.api.block_entity.GeneratingFlowerBlockEntity;
 import vazkii.botania.api.mana.ManaCollector;
 import vazkii.botania.api.mana.ManaPool;

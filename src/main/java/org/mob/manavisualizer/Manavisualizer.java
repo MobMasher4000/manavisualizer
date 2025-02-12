@@ -1,9 +1,9 @@
-package org.zombie.manavisualizer;
+package org.mob.manavisualizer;
 
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import org.zombie.manavisualizer.item.ModItems;
+import org.mob.manavisualizer.item.ModItems;
 
 @Mod(Manavisualizer.MOD_ID)
 public class Manavisualizer {

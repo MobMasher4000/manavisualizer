@@ -1,4 +1,4 @@
-package org.zombie.manavisualizer;
+package org.mob.manavisualizer;
 
 import net.minecraft.network.chat.Component;
 
